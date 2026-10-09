@@ -24,7 +24,7 @@
     "@stellar/stellar-sdk": "^13.3.0",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
-    "dicebear": "^9.2.4",
+    "dicebear": "^10.7.0",
     "embla-carousel-react": "^8.6.0",
     "framer-motion": "^13.1.1",
     "lucide-react": "^0.533.0",
