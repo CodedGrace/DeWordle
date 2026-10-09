@@ -1,6 +1,5 @@
 # DeWordle
 
-[![Test Coverage](https://github.com/Eyanus/DeWordle/actions/workflows/coverage.yml/badge.svg)](https://github.com/Eyanus/DeWordle/actions/workflows/coverage.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 [![Stellar](https://img.shields.io/badge/Stellar-Soroban-7D00FF.svg)](https://stellar.org/soroban)
 
